@@ -4,3 +4,6 @@ for i in range(0,10):
 
 print(a)
 print("New features added to code")
+b = [1,2,3]
+print(b)
+
